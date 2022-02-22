@@ -1,14 +1,3 @@
-# Federated Learning For Completion
-this is a federated learning network to achieve completion task.
+# Machine Learning in practice
 
-# Usage
-
-```python
-python FL_train.py
-```
-
-# require
-
-torch >= 1.8.0
-
-torch_geometric >= 1.7.0
+机器学习算法的一些练习

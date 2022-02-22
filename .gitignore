@@ -132,13 +132,4 @@ dmypy.json
 .vscode/
 
 # Cur Experiment
-compare/
-data/
-output/
-*.json
-dataProcessing/ckpt
-trained_models/
-ServerResult/
-*.pyc
-*.cpython-37.pyc
-*.png
+

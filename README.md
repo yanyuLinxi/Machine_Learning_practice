@@ -13,6 +13,8 @@
 | [03_AdaBoost](./03_AdaBoost/)                     | Adaboost介绍、公式推导和实现             |
 | [04_KMeans](./04_KMeans/)                         | KMeans和Bi-KMeans介绍和实现 ，其他Kmeans的改进版。            |
 | [05_LogisticRegression](./05_LogisticRegression/) | 逻辑回归公式推导、实现。包括极大似然概率、交叉熵损失函数的推导。             |
+| [07_GBDT](./07_GBDT/) | 梯度提升树的公式推导。           |
+| [08_XGBoost](./08_XGBoost/) | XGBoost的公式推导和讲解。            |
 
 
 ## Notes

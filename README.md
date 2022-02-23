@@ -6,10 +6,13 @@
 
 大多数算法的传入参数可以使用pandas.dataFrame传入。如果为有监督学习，则标签列名应为"label"。
 
-| 文件夹                                         | 内容            |
-| :--------------------------------------------- | :-------------- |
-| [01_DicisionTree](./01_DicisionTree/README.md) | id3, c4.5, cart |
-| [02_KNN](./02_KNN/README.md)                   | id3, c4.5, cart |
+| 文件夹                                            | 内容                      |
+| :------------------------------------------------ | :------------------------ |
+| [01_DicisionTree](./01_DicisionTree/)             | id3, c4.5, cart介绍和实现 |
+| [02_KNN](./02_KNN/)                               | KNN介绍和实现             |
+| [03_AdaBoost](./03_AdaBoost/)                     | Adaboost介绍、公式推导和实现             |
+| [04_KMEANS](./04_KMEANS/)                         | KMeans和Bi-KMeans介绍和实现 ，其他Kmeans的改进版。            |
+| [05_LogisticRegression](./05_LogisticRegression/) | 逻辑回归公式推导、实现。包括极大似然概率、交叉熵损失函数的推导。             |
 
 
 ## Notes
@@ -27,6 +30,7 @@
 
 1. numpy>=1.19.5
 2. scikit-learn>=0.24.2
+3. matplotlib>=3.3.3
 
 ## References
 1. 书籍
